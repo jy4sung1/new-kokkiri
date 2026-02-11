@@ -36,6 +36,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# figma reference images
+public/images/ref-*
+public/images/desktop-*-reference.png
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
